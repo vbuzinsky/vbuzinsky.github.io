@@ -1,0 +1,278 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vb.com" resolutions="1x" timestamp="1531153227628">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="193102411" ref="index"/>
+    <file name="_______.css" crc="3783255981" ref="спасибо"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:спасибо"/>
+    <file name="museutils.js" crc="340535759" ref="index:спасибо"/>
+    <file name="whatinput.js" crc="86476730" ref="index:спасибо"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:спасибо"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:спасибо"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:спасибо"/>
+    <file name="require.js" crc="7928878" ref="index:спасибо"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u3910.php" crc="4088699248" ref="index"/>
+    <file name="form-u4008.php" crc="159134980" ref="index"/>
+    <file name="form-u4165.php" crc="416267111" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u97-6.png" crc="452087618" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:спасибо"/>
+    <file name="u109.png" crc="3935448557" ref="index"/>
+    <file name="u109-r.png" crc="393613331" ref="index"/>
+    <file name="u109-m.png" crc="14031820" ref="index"/>
+    <file name="u503_states.png" crc="200456164" ref="index"/>
+    <file name="u503_states-r.png" crc="3826320660" ref="index"/>
+    <file name="u503_states-m.png" crc="4082092317" ref="index"/>
+    <file name="u500_states.png" crc="113100673" ref="index"/>
+    <file name="u500_states-r.png" crc="3827026127" ref="index"/>
+    <file name="u500_states-m.png" crc="8967143" ref="index"/>
+    <file name="u506_states.png" crc="464411220" ref="index"/>
+    <file name="u506_states-r.png" crc="4028252535" ref="index"/>
+    <file name="u506_states-m.png" crc="524369913" ref="index"/>
+    <file name="uxenwupydgg.jpg" crc="4130120686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eef9km1utli.jpg" crc="306267092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d7gur2mkrtu.jpg" crc="3965115343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mt4x1m1h7cy.jpg" crc="60931332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fit2fxzdcxo.jpg" crc="34340055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="65.jpg" crc="16341239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u574-4.png" crc="3936965810" ref="index"/>
+    <file name="u577-9.png" crc="4262465052" ref="index"/>
+    <file name="вставленное изображение 954x46.jpg" crc="4252795186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d6x79vqstm0-u976-fr.jpg" crc="3957818596" ref="index"/>
+    <file name="d6x79vqstm0.jpg" crc="4220912488" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cqcpmsvmtsi-u1046-fr.jpg" crc="165957515" ref="index"/>
+    <file name="cqcpmsvmtsi.jpg" crc="4159910781" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cjbqiqxeg0w-u1102-fr.jpg" crc="4177693638" ref="index"/>
+    <file name="cjbqiqxeg0w.jpg" crc="4074793937" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sizcckaouig-u1155-fr.jpg" crc="3805726867" ref="index"/>
+    <file name="sizcckaouig.jpg" crc="27096197" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kby2gdr_1za-u1346-fr.jpg" crc="4234132847" ref="index"/>
+    <file name="kby2gdr_1za.jpg" crc="413182595" ref="спасибо">
+      <caption webpage="index" alt=""/>
+      <caption webpage="спасибо" alt=""/>
+      <caption webpage="без-имени-3" alt=""/>
+    </file>
+    <file name="e1f33p0czvc-u1399-fr.jpg" crc="199177816" ref="index"/>
+    <file name="e1f33p0czvc.jpg" crc="4265640076" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eef9km1utli-u1452-fr.jpg" crc="383801715" ref="index"/>
+    <file name="eef9km1utli-u1442-fr.jpg" crc="1443328" ref="index"/>
+    <file name="d7gur2mkrtu-u1505-fr.jpg" crc="4245368107" ref="index"/>
+    <file name="d7gur2mkrtu-u1495-fr.jpg" crc="4079575207" ref="index"/>
+    <file name="hlcguyhptag-u1558-fr.jpg" crc="4255479989" ref="index"/>
+    <file name="hlcguyhptag.jpg" crc="4182148018" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m8z6ikkfm0m-u1653-fr.jpg" crc="3831029842" ref="index"/>
+    <file name="m8z6ikkfm0m.jpg" crc="4014594439" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eyfcln-xuhe-u1706-fr.jpg" crc="425401963" ref="index"/>
+    <file name="eyfcln-xuhe.jpg" crc="280625322" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1g6ap7slfhc-u1759-fr.jpg" crc="4198180648" ref="index"/>
+    <file name="1g6ap7slfhc.jpg" crc="37540662" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="t7bcxnh1yxm-u1812-fr.jpg" crc="3758426406" ref="index"/>
+    <file name="t7bcxnh1yxm.jpg" crc="63978196" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_8977-u1865-fr.jpg" crc="3909329377" ref="index"/>
+    <file name="_d3_8977.jpg" crc="109768162" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_9159-u1918-fr.jpg" crc="247999685" ref="index"/>
+    <file name="_d3_9159.jpg" crc="3860178476" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3vb8lcly6js-u1971-fr.jpg" crc="192226000" ref="index"/>
+    <file name="3vb8lcly6js.jpg" crc="4132425012" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="86ufngben74-u2025-fr.jpg" crc="4008995235" ref="index"/>
+    <file name="86ufngben74.jpg" crc="160265493" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vnpnwst6uzq-u2077-fr.jpg" crc="159798479" ref="index"/>
+    <file name="vnpnwst6uzq.jpg" crc="116009282" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kfx4vixo0q4-u2130-fr.jpg" crc="4183114553" ref="index"/>
+    <file name="kfx4vixo0q4.jpg" crc="4103182257" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5d3_7350-u2183-fr.jpg" crc="58763775" ref="index"/>
+    <file name="5d3_7350.jpg" crc="4197468353" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_1043-u2236-fr.jpg" crc="4182312565" ref="index"/>
+    <file name="_d3_1043.jpg" crc="4266768273" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_0786-u2297-fr.jpg" crc="252901813" ref="index"/>
+    <file name="_d3_0786.jpg" crc="219997838" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_2309-u2350-fr.jpg" crc="495843593" ref="index"/>
+    <file name="_d3_2309.jpg" crc="4206832685" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_9001-u2456-fr.jpg" crc="320084625" ref="index"/>
+    <file name="_d3_9001.jpg" crc="118420031" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_5814-u2403-fr.jpg" crc="3946518637" ref="index"/>
+    <file name="_d3_5814.jpg" crc="355224190" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_8881-u2509-fr.jpg" crc="3810893119" ref="index"/>
+    <file name="_d3_8881.jpg" crc="161093175" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_9461-u2562-fr.jpg" crc="4052959980" ref="index"/>
+    <file name="_d3_9461.jpg" crc="4250280162" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_8786-u2615-fr.jpg" crc="4019521728" ref="index"/>
+    <file name="_d3_8786.jpg" crc="119860925" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_d3_9525-u2668-fr.jpg" crc="4117247594" ref="index"/>
+    <file name="_d3_9525.jpg" crc="282190409" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2759-4.png" crc="223652482" ref="index"/>
+    <file name="вставленное изображение 56x56.jpg" crc="334157773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2762-4.png" crc="445422087" ref="index"/>
+    <file name="вставленное изображение 56x48.jpg" crc="3760923774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2767-4.png" crc="14791277" ref="index"/>
+    <file name="вставленное изображение 54x56.jpg" crc="361751406" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фон.jpg" crc="240295710" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2920-4.png" crc="329092320" ref="index"/>
+    <file name="u2970-22.png" crc="4201897981" ref="index"/>
+    <file name="u2979-25.png" crc="3975146646" ref="index"/>
+    <file name="u2988-25.png" crc="432863457" ref="index"/>
+    <file name="u3007.png" crc="4145134653" ref="index"/>
+    <file name="u3007-r.png" crc="70584121" ref="index"/>
+    <file name="u3007-m.png" crc="3950718714" ref="index"/>
+    <file name="u3057-4.png" crc="166000279" ref="index"/>
+    <file name="вставленное изображение 225x225.jpg" crc="425438513" seo="true" ref="index:спасибо">
+      <caption webpage="index" alt=""/>
+      <caption webpage="спасибо" alt=""/>
+      <caption webpage="без-имени-3" alt=""/>
+    </file>
+    <file name="вставленное изображение 690x689.jpg" crc="297759119" seo="true" ref="index:спасибо">
+      <caption webpage="index" alt=""/>
+      <caption webpage="спасибо" alt=""/>
+      <caption webpage="без-имени-3" alt=""/>
+    </file>
+    <file name="вставленное изображение 689x690.jpg" crc="522727434" seo="true" ref="index:спасибо">
+      <caption webpage="index" alt=""/>
+      <caption webpage="спасибо" alt=""/>
+      <caption webpage="без-имени-3" alt=""/>
+    </file>
+    <file name="u509_states.png" crc="364091485" ref="index"/>
+    <file name="u509_states-r.png" crc="4276695763" ref="index"/>
+    <file name="u509_states-m.png" crc="72850324" ref="index"/>
+    <file name="kby2gdr_1za-u1336-fr.jpg" crc="3828726683" ref="index"/>
+    <file name="fon2-u3777-fr.jpg" crc="4086342670" ref="index"/>
+    <file name="u3919.png" crc="186879729" ref="index"/>
+    <file name="u3919-ferr.png" crc="508779406" ref="index"/>
+    <file name="u3916.png" crc="33598777" ref="index"/>
+    <file name="u3916-r.png" crc="3939793525" ref="index"/>
+    <file name="u3912.png" crc="3889076835" ref="index"/>
+    <file name="u3912-ferr.png" crc="356405853" ref="index"/>
+    <file name="u3963.png" crc="344674288" ref="index"/>
+    <file name="u3963-ferr.png" crc="284765743" ref="index"/>
+    <file name="u3979-4.png" crc="3961539331" ref="index"/>
+    <file name="u4004.png" crc="4145134653" ref="index"/>
+    <file name="u4004-r.png" crc="70584121" ref="index"/>
+    <file name="u4004-m.png" crc="3950718714" ref="index"/>
+    <file name="u4022.png" crc="186879729" ref="index"/>
+    <file name="u4022-ferr.png" crc="508779406" ref="index"/>
+    <file name="u4016.png" crc="33598777" ref="index"/>
+    <file name="u4016-r.png" crc="3939793525" ref="index"/>
+    <file name="u4012.png" crc="3889076835" ref="index"/>
+    <file name="u4012-ferr.png" crc="356405853" ref="index"/>
+    <file name="u4027.png" crc="344674288" ref="index"/>
+    <file name="u4027-ferr.png" crc="284765743" ref="index"/>
+    <file name="u4007-4.png" crc="3961539331" ref="index"/>
+    <file name="u4191.png" crc="4145134653" ref="index"/>
+    <file name="u4191-r.png" crc="70584121" ref="index"/>
+    <file name="u4191-m.png" crc="3950718714" ref="index"/>
+    <file name="u4179.png" crc="186879729" ref="index"/>
+    <file name="u4179-ferr.png" crc="508779406" ref="index"/>
+    <file name="u4167.png" crc="33598777" ref="index"/>
+    <file name="u4167-r.png" crc="3939793525" ref="index"/>
+    <file name="u4175.png" crc="3889076835" ref="index"/>
+    <file name="u4175-ferr.png" crc="356405853" ref="index"/>
+    <file name="u4184.png" crc="344674288" ref="index"/>
+    <file name="u4184-ferr.png" crc="284765743" ref="index"/>
+    <file name="u4186-4.png" crc="3961539331" ref="index"/>
+    <file name="u4390-6.png" crc="452087618" ref="спасибо"/>
+    <file name="u4391_states.png" crc="3935448557" ref="спасибо"/>
+    <file name="u4391_states-r.png" crc="393613331" ref="спасибо"/>
+    <file name="u4391_states-m.png" crc="14031820" ref="спасибо"/>
+    <file name="u4393_states.png" crc="200456164" ref="спасибо"/>
+    <file name="u4393_states-r.png" crc="3826320660" ref="спасибо"/>
+    <file name="u4393_states-m.png" crc="4082092317" ref="спасибо"/>
+    <file name="u4392_states.png" crc="113100673" ref="спасибо"/>
+    <file name="u4392_states-r.png" crc="3827026127" ref="спасибо"/>
+    <file name="u4392_states-m.png" crc="8967143" ref="спасибо"/>
+    <file name="u4394_states.png" crc="464411220" ref="спасибо"/>
+    <file name="u4394_states-r.png" crc="4028252535" ref="спасибо"/>
+    <file name="u4394_states-m.png" crc="524369913" ref="спасибо"/>
+    <file name="u4395_states.png" crc="364091485" ref="спасибо"/>
+    <file name="u4395_states-r.png" crc="4276695763" ref="спасибо"/>
+    <file name="u4395_states-m.png" crc="72850324" ref="спасибо"/>
+    <file name="u4411_states.png" crc="4192123624" ref="спасибо"/>
+    <file name="u4411_states-r.png" crc="111606075" ref="спасибо"/>
+    <file name="u4411_states-m.png" crc="352043720" ref="спасибо"/>
+    <file name="u4424-4.png" crc="166000279" ref="спасибо"/>
+  </folder>
+  <file name="index.html" crc="224494017" seo="true" mt="1531152954086" redirect="true"/>
+  <file name="спасибо.html" crc="4017886764" seo="true" mt="1531152663550" redirect="true"/>
+</manifest>
